@@ -1,4 +1,4 @@
-website
+MACGAP- An amazing project
 =======
 
 The MacGap website
